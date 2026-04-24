@@ -1,0 +1,78 @@
+import pandas as pd
+import re
+
+df = pd.read_csv("GKSL3k_original.csv")
+
+# keep only needed columns
+df = df[[
+    "Word level Korean Language (WKL) sentence",
+    "Gloss level Korean Sign Language (GKSL) sentence"
+]]
+
+# rename for convenience
+df.columns = ["source", "target"]
+
+# clean function
+def clean_text(text):
+    text = str(text).strip()
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+df["source"] = df["source"].apply(clean_text)
+df["target"] = df["target"].apply(clean_text)
+
+# remove empty / NaN
+df = df.dropna()
+df = df[(df["source"] != "") & (df["target"] != "")]
+
+print("Final size:", len(df))
+
+# ignore: checking duplicates
+# exact same input-output pairs
+exact_duplicates = df.duplicated(subset=["source", "target"]).sum()
+
+# same source but different targets (VERY IMPORTANT)
+conflicts = df.groupby("source")["target"].nunique()
+conflicts = conflicts[conflicts > 1]
+
+print("Exact duplicates:", exact_duplicates)
+print("Conflicting mappings:", len(conflicts))
+
+# check sample
+print(df.sample(5))
+
+from sklearn.model_selection import train_test_split
+
+# unique sources
+unique_sources = df["source"].unique()
+
+train_src, temp_src = train_test_split(
+    unique_sources, test_size=0.2, random_state=42
+)
+
+val_src, test_src = train_test_split(
+    temp_src, test_size=0.5, random_state=42
+)
+
+train_df = df[df["source"].isin(train_src)]
+val_df   = df[df["source"].isin(val_src)]
+test_df  = df[df["source"].isin(test_src)]
+
+print(len(train_df), len(val_df), len(test_df))
+
+def save_txt(df, src_path, tgt_path):
+    df["source"].to_csv(src_path, index=False, header=False)
+    df["target"].to_csv(tgt_path, index=False, header=False)
+
+save_txt(train_df, "train.source", "train.target")
+save_txt(val_df, "val.source", "val.target")
+save_txt(test_df, "test.source", "test.target")
+
+# verify source and target aligned
+with open("train.source", encoding="utf-8") as f1, \
+     open("train.target", encoding="utf-8") as f2:
+    
+    for i in range(5):
+        print(f"SRC: {f1.readline().strip()}")
+        print(f"TGT: {f2.readline().strip()}")
+        print()
