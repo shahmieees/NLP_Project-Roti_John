@@ -1,0 +1,318 @@
+[STATEMENT] 누가 집단폭력
+[STATEMENT] 친구 먹다 중간 흰 네모 자르다 먹다 실수
+[STATEMENT] 누가 잡다
+[STATEMENT] 전기 기둥 줄 끊어지다
+[STATEMENT] 아이 놀다 곳 실종
+[STATEMENT] 아기 독 약 삼키다
+[STATEMENT] 빨리 돕다 부탁
+[STATEMENT] 저 방 갇히다
+[STATEMENT] 사람 물건 무겁다 깔리다
+[STATEMENT] 동생 문 손 끼다
+[STATEMENT] 시간 급하다
+[QUESTION] 시간 급하다
+[STATEMENT] 당신
+[QUESTION] 당신
+[STATEMENT] 택시 기본 오천원
+[QUESTION] 카드 1회 되다
+[STATEMENT] 지하철오다 중
+[STATEMENT] 도착
+[QUESTION] 도착
+[STATEMENT] 약 가깝다
+[QUESTION] 약 가깝다
+[STATEMENT] 짐 없다
+[QUESTION] 짐 없다
+[STATEMENT] 짐 차 트렁크열다 나르다
+[QUESTION] 짐 차 트렁크열다 나르다
+[QUESTION] 힘들다
+[QUESTION] 버스 타다 곳곳
+[STATEMENT] 표
+[QUESTION] 표
+[STATEMENT] 빨리
+[QUESTION] 빨리
+[QUESTION] 차내리다 곳곳
+[STATEMENT] 어린이집 보다 차내리다
+[QUESTION] 어린이집 보다 차내리다
+[QUESTION] 롯데월드 가다 목적 지하철 번호
+[QUESTION] 첫차 시간
+[QUESTION] 도착 몇분
+[QUESTION] 계산 잘못하다
+[QUESTION] 학교 주차 되다
+[QUESTION] 지하철 반대 건너다 방법
+[STATEMENT] 지하철 문 틈 핸드폰 떨어지다
+[STATEMENT] 지하철 문 틈 이어폰 떨어지다
+[QUESTION] 교통카드 충전 되다
+[QUESTION] 첫차 시간
+[QUESTION] 곳곳
+[STATEMENT] 고속 빨리
+[QUESTION] 고속 빨리
+[STATEMENT] 내리다 갈아타다 가능
+[QUESTION] 내리다 갈아타다 가능
+[STATEMENT] 도착 10분
+[QUESTION] 도착 10분
+[STATEMENT] 5호 갈아타다 안내하다 도움받다
+[QUESTION] 5호 갈아타다 안내하다 도와주다
+[STATEMENT] 도착 곳 알려받다
+[STATEMENT] 신호등 전 내리다
+[STATEMENT] 신호등 전 내리다
+[STATEMENT] 신호등 전 차내리다
+[STATEMENT] 신호등 전 차내리다
+[STATEMENT] 신호등 전 도착 내리다
+[STATEMENT] 신호등 전 도착 내리다
+[STATEMENT] 신호등 다음 도착 내리다
+[STATEMENT] 신호등 다음 도착 내리다
+[QUESTION] 화장실 곳 무엇
+[STATEMENT] 물품보관 안되다
+[STATEMENT] 물품보관 사용 안되다
+[STATEMENT] 지갑 실종 없다
+[STATEMENT] 안전벨트 꼿다
+[STATEMENT] 안전벨트 꼿다
+[QUESTION] 카드 또 다르다 없다
+[QUESTION] 카드 또 다르다 없다
+[STATEMENT] 저기 학교 가다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 카드 되다
+[QUESTION] 카드 가능
+[STATEMENT] 나사렛 내리다
+[STATEMENT] 나사렛 내리다
+[STATEMENT] 서울역 가다 내리다
+[STATEMENT] 서울역 가다 내리다
+[QUESTION] 손바닥찍다 가다 차내리다
+[QUESTION] 공항 곳 가다
+[QUESTION] 공항 가다 내리다
+[QUESTION] 공항 가다 내리다
+[QUESTION] 나사렛 차내리다 가다
+[QUESTION] 나사렛 차내리다 가다
+[STATEMENT] 아파트 저기 가다
+[QUESTION] 아파트 저기 가다
+[STATEMENT] 나사렛 전 곳
+[STATEMENT] 기차 곳 맞다
+[STATEMENT] 기차 곳 맞다
+[STATEMENT] 건너다 차내리다
+[STATEMENT] 건너다 차내리다
+[STATEMENT] 시청 차내리다 오케이
+[STATEMENT] 시청 차내리다 오케이
+[QUESTION] 기차 곳 맞다
+[QUESTION] 기차 곳 맞다
+[QUESTION] 건너다 차내리다
+[QUESTION] 건너다 차내리다
+[QUESTION] 시청 차내리다 오케이
+[QUESTION] 시청 차내리다 오케이
+[QUESTION] 나사렛 내리다
+[QUESTION] 나사렛 내리다
+[QUESTION] 한국농아인협회
+[QUESTION] 서울농아인협회 내리다
+[QUESTION] 서울농아인협회 내리다
+[QUESTION] 서울농아인협회 차내리다
+[QUESTION] 서울농아인협회 차내리다
+[QUESTION] 서울농아인협회 가다
+[STATEMENT] 서울농아인협회 가다
+[STATEMENT] 서울농아인협회 가다
+[STATEMENT] 서울농아인협회 내리다
+[STATEMENT] 서울농아인협회 내리다
+[STATEMENT] 서울농아인협회 차내리다
+[STATEMENT] 서울농아인협회 차내리다
+[STATEMENT] 서울농아인협회 가다
+[QUESTION] 자판기 길 곳
+[QUESTION] 편의점 무엇
+[QUESTION] 의자 곳 무엇
+[STATEMENT] 자판기 잘 안되다
+[STATEMENT] 공기청정기 사용 안되다 불량
+[STATEMENT] 단말기터치 고장 잘 안되다
+[STATEMENT] 카드 사용 불가능 고장
+[STATEMENT] 카드 사용 잘 안되다
+[STATEMENT] 에어컨 사용 불가능 안되다
+[STATEMENT] 난방 고장 사용 불가능
+[QUESTION] 물품보관 안되다
+[QUESTION] 물품보관 사용 안되다
+[QUESTION] 자판기 잘 안되다
+[QUESTION] 단말기터치 고장 죽다
+[QUESTION] 카드 사용 불가능 고장
+[QUESTION] 카드 사용 잘 안되다
+[QUESTION] 에어컨 사용 불가능 안되다
+[STATEMENT] 공항 버스 곳 전 보다 도착 차내리다
+[STATEMENT] 공항 버스 곳 전 보다 도착 차내리다
+[STATEMENT] 열쇠 없다 실종
+[STATEMENT] 스타벅스 전 곳 차내리다
+[STATEMENT] 스타벅스 전 곳 차내리다
+[STATEMENT] 스타벅스 전 곳 도착 내리다
+[STATEMENT] 스타벅스 전 곳 도착 내리다
+[STATEMENT] 맥도날드 보다 다음 저기 곳 내리다
+[STATEMENT] 맥도날드 보다 다음 저기 곳 내리다
+[STATEMENT] 이마트 곳 저기 다음 내리다
+[STATEMENT] 이마트 곳 저기 다음 내리다
+[STATEMENT] 파리바게트 다음 곳 도착 차내리다
+[QUESTION] 3 가다 무엇 방법
+[QUESTION] 3 목적 길 방법
+[QUESTION] 3 가다 길 무엇
+[QUESTION] 3 가다 원하다 길 무엇
+[QUESTION] 서울대학교 목적 가다 길 무엇
+[QUESTION] 여의도 목적 방법
+[QUESTION] 영등포 길 찾다 길 방법
+[QUESTION] 영등포 길 찾다 길 무엇
+[QUESTION] 영등포 길 찾다 길 가다 방법
+[QUESTION] 종로 목적 가다 무엇 방법
+[QUESTION] 종로 곳 가다 곳 방법
+[QUESTION] 종로 곳 가다 곳 방법
+[QUESTION] 종로 곳 가다 원하다 길 무엇
+[STATEMENT] 버스 곳 저기 다음 도착 차내리다
+[STATEMENT] 버스 곳 저기 다음 도착 차내리다
+[STATEMENT] 사거리 다음 도착 내리다
+[STATEMENT] 사거리 다음 도착 내리다
+[STATEMENT] 대로 다음 여기
+[STATEMENT] 언덕 저기 곳 다음 내리다
+[STATEMENT] 언덕 저기 곳 다음 내리다
+[STATEMENT] 경찰 저기 곳 다음 내리다
+[STATEMENT] 경찰 저기 곳 다음 내리다
+[STATEMENT] 경찰 저기 곳 다음 도착 내리다
+[STATEMENT] 경찰 저기 곳 다음 도착 내리다
+[STATEMENT] 힘들다
+[QUESTION] 신호등 다음 도착 내리다
+[QUESTION] 신호등 다음 도착 내리다
+[QUESTION] 버스 곳 저기 다음 도착 차내리다
+[QUESTION] 버스 곳 저기 다음 도착 차내리다
+[QUESTION] 사거리 다음 도착 내리다
+[QUESTION] 사거리 다음 도착 내리다
+[QUESTION] 대로 다음 여기
+[QUESTION] 언덕 저기 곳 다음 내리다
+[QUESTION] 언덕 저기 곳 다음 내리다
+[QUESTION] 경찰 저기 곳 다음 내리다
+[QUESTION] 경찰 저기 곳 다음 내리다
+[QUESTION] 경찰 저기 곳 다음 도착 내리다
+[QUESTION] 경찰 저기 곳 다음 도착 내리다
+[STATEMENT] 맞다
+[QUESTION] 맞다
+[QUESTION] 가방 없다 잃어버리다
+[QUESTION] 가방 찾다 실종
+[QUESTION] 아이 없다 실종
+[QUESTION] 아이 실종 잃어버리다
+[QUESTION] 열쇠 없다 실종
+[QUESTION] 카드 실종
+[STATEMENT] 사진기 잃어버리다
+[STATEMENT] 가방 없다 잃어버리다
+[STATEMENT] 가방 찾다 실종
+[STATEMENT] 아이 없다 실종
+[STATEMENT] 아이 실종 잃어버리다
+[STATEMENT] 카드 실종
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[QUESTION] 유턴 맞다
+[STATEMENT] 유턴 맞다
+[STATEMENT] 유턴 맞다
+[STATEMENT] 유턴 맞다
+[STATEMENT] 유턴 맞다
+[STATEMENT] 유턴 맞다
+[QUESTION] 카드 되다
+[STATEMENT] 카드 되다
+[STATEMENT] 카드 가능
+[STATEMENT] 카드 되다
+[STATEMENT] 반지 찾다 실종
+[STATEMENT] 노트북 없다 실종
+[QUESTION] 빨리 접근 되다
+[STATEMENT] 빨리 접근 되다
+[QUESTION] 아기 쉬다 어디
+[QUESTION] 항공 목욕 어디
+[QUESTION] 항공 목욕 곳
+[QUESTION] 항공 표 받다 어디
+[QUESTION] 주차 2번 어디 곳
+[QUESTION] 주차 2번 곳
+[QUESTION] 지하철 어디 곳
+[QUESTION] 지하철 곳
+[QUESTION] 물건 검사 두다 어디
+[QUESTION] 병원 어디 곳
+[QUESTION] 동사무소 네모 프린트 어디
+[QUESTION] 항공 배달 어디
+[QUESTION] 항공 배달 곳
+[QUESTION] 한국 항공 표 어디 곳
+[QUESTION] 캐리어 무게 곳 어디
+[QUESTION] 캐리어 무게 어디
+[QUESTION] 캐리어 무게 곳
+[QUESTION] 짐 무게 초과 추가 돈주다 곳 어디
+[QUESTION] 짐 무게 초과 추가 돈주다 어디
+[QUESTION] 택시 어디
+[QUESTION] 항공 짐 검사 두다 어디 곳
+[QUESTION] 항공 목욕 어디
+[QUESTION] 항공 목욕 곳
+[QUESTION] 카페 어디 곳
+[QUESTION] 여행 정보 묻다 어디
+[QUESTION] 햄버거 곳 어디
+[QUESTION] 햄버거 곳
+[STATEMENT] 빵 집 어디
+[STATEMENT] 빵 집 곳
+[QUESTION] 호텔 항공 가깝다 어디 곳
+[QUESTION] 호텔 항공 가깝다 곳 어디
+[QUESTION] 아시아 항공 표 곳
+[QUESTION] 와이파이1 빌리다 어디 곳
+[QUESTION] 와이파이1 빌리다 곳
+[QUESTION] 세금 공짜 인터넷 신고 받아오다 곳 어디
+[QUESTION] 지방 버스 곳
+[QUESTION] 비행기 지각 방법
+[QUESTION] 비행기 표 잃어버리다 방법
+[QUESTION] 비자 책 없다 방법
+[QUESTION] 노트북 짐 맡기다 가능
+[QUESTION] 카메라 짐 맡기다 가능
+[QUESTION] 캠코더 비행기 안 가지다 가능
+[QUESTION] 칼 비행기 안 가지다 가능
+[QUESTION] 비행기 안 낚시대 가지다 가능
+[QUESTION] 낚시대 비행기 안 가지다 가능
+[STATEMENT] 여행 편안 반갑다 부탁
+[STATEMENT] 맞다
+[QUESTION] 지하철
+[QUESTION] 서울역
+[STATEMENT] 쓰다 저장 기억 가능
+[STATEMENT] 시작
+[STATEMENT] 시작
+[STATEMENT] 거짓말 싫다
+[STATEMENT] 일 어렵다
+[STATEMENT] 손 들다 움직이다 쏘다
+[STATEMENT] 위로
+[STATEMENT] 약속 중요 있다 나 먼저 가다
+[STATEMENT] 돕다 필요
+[STATEMENT] 바쁘다 아니다 만나다
+[STATEMENT] 너무 반갑다 울다
+[STATEMENT] 항상 보다 원하다
+[STATEMENT] 능력 부족
+[STATEMENT] 돈 많다 하루 갚다 가능 불가능
+[STATEMENT] 몸 아프다 병원 가다 오다
+[STATEMENT] 너무 따뜻하다 자다 같다
+[STATEMENT] 만들다
+[STATEMENT] 나무 이용 만들다 집 벌레 많다
+[STATEMENT] 할아버지 새벽 4 매일 일어나다
+[STATEMENT] 남자 여자 운전 방법 가르치다 주다
+[STATEMENT] 계획 보류 자연 미루다
+[STATEMENT] 공부 싫다
+[STATEMENT] 결과 무엇 너무 궁금하다
+[STATEMENT] 청소 귀찮다
+[STATEMENT] 기다리다 -봐
+[STATEMENT] 기억
+[STATEMENT] 기억
+[STATEMENT] 크다
+[STATEMENT] 저기 방 안에 사람 있다
+[STATEMENT] 힘들다
+[STATEMENT] 걷다 오래 힘들다
+[STATEMENT] 포기 안되다
+[STATEMENT] 기분 좋다
+[STATEMENT] 듣다
+[STATEMENT] 마음에들다 있다 가지다 되다
+[STATEMENT] 저기 너 가지다
+[STATEMENT] 너무 배고프다
+[STATEMENT] 불행 했었다 과거 잊다 살다 노력
+[STATEMENT] 불행 기억 잊다 새롭다 시작
+[STATEMENT] 기쁘다
+[STATEMENT] 감독 맡다
+[STATEMENT] 오늘 일 나 맡다
+[STATEMENT] 화장실 가다 짐 맡다 부탁
+[STATEMENT] 웃다 모습 귀엽다
+[STATEMENT] 착하다 말하다
+[STATEMENT] 영화 보다 슬프다
+[STATEMENT] 지하철 타다
+[STATEMENT] 집 버스 거리 1시간
+[STATEMENT] 남자 생각 궁금 물어보다
+[STATEMENT] 남자 나 불편하다 생각 아마
+[STATEMENT] 여자 나 친하다 친구
+[STATEMENT] 나 미래 친하다
