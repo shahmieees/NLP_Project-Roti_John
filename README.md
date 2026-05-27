@@ -102,15 +102,14 @@ ksl-gloss2text-kobart/
 ├── notebooks/
 │   └── kobart_training.ipynb
 │
-├── data/
-│   └── raw/
-│       ├── GKSL3k_original.csv
-│       ├── train.source
-│       ├── train.target
-│       ├── val.source
-│       ├── val.target
-│       ├── test.source
-│       └── test.target
+├── Raw Dataset/
+│   ├── GKSL3k_original.csv
+│   ├── train.source
+│   ├── train.target
+│   ├── val.source
+│   ├── val.target
+│   ├── test.source
+│   └── test.target
 │
 └── outputs/
     ├── metrics/
