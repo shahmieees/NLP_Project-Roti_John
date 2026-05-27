@@ -1,7 +1,7 @@
 # Natural Korean Sentence Generation from KSL Gloss Sequences using KoBART
 
 Korea University — COSE461 Final Project  
-Team: **Roti John**
+Team: **Roti John** (Team 15)
 
 ---
 
