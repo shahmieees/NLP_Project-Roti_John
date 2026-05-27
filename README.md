@@ -112,17 +112,16 @@ ksl-gloss2text-kobart/
 │       ├── test.source
 │       └── test.target
 │
-├── outputs/
-│   ├── metrics/
-│   │   ├── evaluation_results.csv
-│   │   ├── evaluation.xlsx
-│   │   └── evaluation_results_detailed.xlsx
-│   │
-│   ├── predictions/
-│   └── checkpoints/
-│
-└── docs/
-    └── Github-structure.md
+└── outputs/
+    ├── metrics/
+    │   ├── evaluation_results.csv
+    │   ├── evaluation.xlsx
+    │   └── evaluation_results_detailed.xlsx
+    │
+    ├── predictions/
+    └── checkpoints/
+
+    
 ```
 
 ---
