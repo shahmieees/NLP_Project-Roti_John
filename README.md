@@ -91,36 +91,38 @@ ksl-gloss2text-kobart/
 │
 ├── README.md
 ├── requirements.txt
-├── train.py
-├── evaluate.py
-├── predict.py
-├── run_experiments.py
+├── .gitignore
 │
-├── configs/
-│   ├── base_config.json
-│   ├── train_config.json
-│   ├── decode_config.json
-│   └── experiment_config.json
+├── train.py
+├── predict.py
+├── evaluation.py
+├── run_evaluation.py
+├── preprocessing.py
+│
+├── notebooks/
+│   └── kobart_training.ipynb
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── samples/
-│
-├── src/
-│   ├── data/
-│   ├── models/
-│   ├── evaluation/
-│   ├── experiments/
-│   └── utils/
+│   └── raw/
+│       ├── GKSL3k_original.csv
+│       ├── train.source
+│       ├── train.target
+│       ├── val.source
+│       ├── val.target
+│       ├── test.source
+│       └── test.target
 │
 ├── outputs/
-│   ├── checkpoints/
-│   ├── predictions/
 │   ├── metrics/
-│   └── figures/
+│   │   ├── evaluation_results.csv
+│   │   ├── evaluation.xlsx
+│   │   └── evaluation_results_detailed.xlsx
+│   │
+│   ├── predictions/
+│   └── checkpoints/
 │
-└── reports/
+└── docs/
+    └── Github-structure.md
 ```
 
 ---
